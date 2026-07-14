@@ -25,4 +25,4 @@ The project shifted to a **Fedora base**, choosing it for its rock-solid reliabi
 
 ## Getting Started & Tweak Management
 
-Managing your system is incredibly straightforward. To view, enable, or disable any of the built-in performance tweaks, simply open your terminal and run: capnapperos-help
+Managing your system is incredibly straightforward. To view, enable, or disable any of the built-in performance tweaks, simply open your terminal and run: "capnapperos-help"
