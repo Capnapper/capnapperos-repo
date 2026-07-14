@@ -24,3 +24,5 @@ ISO Release:
 Stay tuned! The official ISO launch is just around the corner.
 
 Thank you for choosing or considering CapnapperOS! Your time is important, and so is your computer. I can't wait to see this project grow!
+
+
