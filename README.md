@@ -10,7 +10,7 @@ CapnapperOS started as a solo project fueled by a simple "what if?" question. Wh
 
 ### Key Features
 * **Maximized Performance:** Built specifically to breathe new life into older hardware.
-* **Total User Control:** Your system, your rules. No forced bloat.
+* **Total User Control:** Your system, your rules. No forced bloat **OR** forced configs.
 * **100% Optional Tweaks:** Unlike other distros that lock you into specific configurations, *all* CapnapperOS tweaks are entirely optional. Don't like an optimization? Turn it off instantly.
 
 ---
