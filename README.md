@@ -19,7 +19,7 @@ CapnapperOS started as a solo project fueled by a simple "what if?" question. Wh
 
 CapnapperOS was originally intended to be built on top of Arch Linux. However, hitting a wall of roadblocks while trying to build via WSL2 (Windows Subsystem for Linux 2) forced a pivot. 
 
-The project shifted to a **Fedora base**, choosing it for its rock-solid reliability. Fedora has never failed this project, and that stability serves as the backbone for everything CapnapperOS does today.
+The project shifted to a **OpenSUSE Base**, choosing it for its rock-solid reliability. OpenSUSE has never failed this project, and that stability serves as the backbone for everything CapnapperOS does today.
 
 ---
 
